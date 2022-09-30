@@ -1,0 +1,29 @@
+main{
+    padding-left:10px;
+    padding-bottom: 30px;
+    border:solid black 2px;
+    width:60%;
+    border-end-end-radius:25% ;
+    background-color: rgb(246, 244, 241);
+}
+button:hover{
+    background-color:rgb(34, 207, 242);
+}
+img{
+    position:fixed;
+    top:40px;
+    left:400px;
+}
+.nav{
+    font-family: 'Oswald', sans-serif;
+}
+.label{
+    font-family: 'Pacifico', cursive;
+}
+.input,.box{
+    font-family: 'Alkalami', serif;
+}
+.box{
+    font-size: 20px
+    ;
+}
